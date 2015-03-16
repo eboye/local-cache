@@ -26,7 +26,7 @@ Example: <code>localStorage.setCacheItem("usersFavoriteCar", { year: 2012, make:
 
 then to retrieve it...
 
-var car = localStorage.getCacheItem("usersFavoriteCar"); alert(car.year);
+<code>var car = localStorage.getCacheItem("usersFavoriteCar"); alert(car.year);</code>
 
 Feedback? Yes please! Please submit via the Issues tab.
 
